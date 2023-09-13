@@ -1,6 +1,6 @@
 # Arduino 4-DOF Robot Arm with Inverse Kinematics
 
-![Robot Arm]([https://github.com/RuchchaSD/Robot_Arm/assets/65414545/62e858a4-9c7c-42ff-88b9-1041f6ad5b36))
+![Robot Arm]([https://github.com/RuchchaSD/Robot_Arm/assets/65414545/62e858a4-9c7c-42ff-88b9-1041f6ad5b36)
 
 ## Overview
 
